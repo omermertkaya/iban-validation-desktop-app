@@ -1,0 +1,21 @@
+#myLog{
+    background-color: #000000;
+    color: #57f0f4;
+}
+
+.commandLine{
+    background-color: #000000;
+    color: #57f0f4;
+}
+
+.commandLine::before{
+    color: #c68110;
+    font-weight: bold;
+    content: '\003E  ';
+}
+
+
+.commandLine:hover {
+   background-color: #57f0f4 !important;
+   color: #000000;
+  }

@@ -1,0 +1,26 @@
+{
+  "name": "IbanControl",
+  "version": "1.0.0",
+  "description": "This application developed for IBAN Check from Akbank Bank.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^20.0.1",
+    "electron-packager": "^15.5.1"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "ibantools": "^4.1.6",
+    "percent-value": "^1.0.9"
+  },
+  "build": {
+    "productName": "IBANAPP",
+    "compression": "maximum",
+    "win": {
+        "target": "NSIS",
+        "icon": "img/iban-kontrol.png"
+      }
+  }
+}
