@@ -24,4 +24,10 @@ App is iban validation. User choose excel file for iban validation. App will ver
    electron-packager ./ IBANAPP --platform=win32 --arch=x64 --icon="./img/iban-kontrol.ico"
    ```
 
-### Build for Windows Desktop App
+### Screen View
+
+![screen1](screen1.png)
+
+
+
+
