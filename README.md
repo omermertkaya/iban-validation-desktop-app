@@ -1,18 +1,17 @@
 # iban-validation-desktop-app
 App is iban validation. User choose excel file for iban validation. App will verify for Turkish Bank Name.
 
-##### Choose your Input.xlsx 
+####  - Choose your Input.xlsx 
 
-| Row Number  | Name  | Surname  | Iban Value	  | Bank Name	   |    Iban Validation		   | Error Code	   |
-| ------------ | ------------ | ------------ | ------------ | ------------ | 
-| 1  | ÖMER MERT	  |  KAYA |   TR9500010011607########### |   |   |   |
+| Row Number  | Name  | Surname  | Iban Value  | Bank Name  | Iban Validation  | Error Code  | 
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 1  | Ömer Mert  | Kaya  | TR950001001###############  |   |   |   |
 
-##### Click Start Button -> export.xlsx 
+####  - Click Start Button -> export.xlsx 
 
-
-| Row Number  | Name  | Surname  | Iban Value	  | Bank Name	   |    Iban Validation		   | Error Code	   |
-| ------------ | ------------ | ------------ | ------------ | ------------ | 
-| 1  | ÖMER MERT	  |  KAYA |  TR9500010011607########### | T.C.ZİRAAT BANKASI A.Ş  | True  |   |
+| Row Number  | Name  | Surname  | Iban Value  | Bank Name  | Iban Validation  | Error Code  | 
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 1  | Ömer Mert  | Kaya  | TR950001001###############  | T.C.ZİRAAT BANKASI A.Ş | True  |   |
 
 
 
