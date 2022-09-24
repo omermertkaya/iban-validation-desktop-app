@@ -1,5 +1,5 @@
 # iban-validation-desktop-app
-App is iban validation. User choose excel file for iban validation. App will verify for Turkish Bank Name.
+App is iban validation. User choose excel file for iban validation. App will verify for iban with Turkish Bank Name.
 
 ####  - Choose your Input.xlsx 
 
