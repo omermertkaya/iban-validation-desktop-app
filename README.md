@@ -32,7 +32,6 @@ App is iban validation. User choose excel file for iban validation. App will ver
    ```
 
 ### Build for Windows Desktop App
-4. In the project folder
 
    ```sh
    electron-packager ./ IBANAPP --platform=win32 --arch=x64 --icon="./img/iban-kontrol.ico"
